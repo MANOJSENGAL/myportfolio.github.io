@@ -1,7 +1,7 @@
 /* Navigation */
 
 .navigation{
-    display: inline-block;
+    display: flex;
 }
 .navigation .logo{
     display: inline-block;
