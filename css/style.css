@@ -1,3 +1,28 @@
+/* Navigation */
+
+.navigation{
+    display: inline-block;
+}
+.navigation .logo{
+    display: inline-block;
+}
+.navigation .logo img{
+    width:20%;
+    height:auto;
+}
+.navigation .nav ul{
+    list-style-type: none;
+    display: flex;
+    margin:0px;
+    padding:0px;
+}
+.navigation .nav ul li{
+
+}
+.navigation .nav ul a{
+
+}
+/* header */
 body{margin:0px;
     padding:0px;
     font-family: 'Montserrat', sans-serif;
