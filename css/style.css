@@ -28,3 +28,18 @@ body{margin:0px;
     }
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
+    .header{
+        text-align:center;
+    } 
+    .header h5{
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 30px;
+}
+    .header h6{
+        font-size: 12pt;
+        font-weight:600;
+}
+    .header .headertitle{
+        padding: 20% 0px 0px 0px;
+}
+}
